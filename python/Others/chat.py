@@ -15,5 +15,5 @@ while True:
      reply = bot.get_response(message)
     print('ChatBot:',reply)
     if message.strip()=='Bye':
-        print('ChatBot:Bye')
+        print('ChatBot: Bye')
         break
